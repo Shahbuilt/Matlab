@@ -1,7 +1,7 @@
 function assignment1_random_generators()
 %% CH5030 Molecular Thermodynamics - Assignment 1
 % Random number generation and statistical tests.
-%CONNECT ME ON WHATSAPP 9711603123
+%
 % The program constructs all numerical data internally. No external dataset
 % is needed.
 
