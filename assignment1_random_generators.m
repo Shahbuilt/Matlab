@@ -12,7 +12,7 @@ nValues = 10000;
 seedLCG = 13579;
 seedBits = makeSeedBits(400, 2026);
 
-streams = struct([]);
+streams = struct("name", {}, "values", {}, "meanStats", {}, "runStats", {});
 
 streams(end+1) = makeStream( ...
     "LCG: a = 48271, b = 0, m = 2^31 - 1", ...
