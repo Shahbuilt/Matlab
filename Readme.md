@@ -1,7 +1,3 @@
-this is my Whattsapp number-9711603123
-contact me on that once you have it will remove this from git
-lets discuss on whatsapp as you have payment issue
-
 # CH5030 Molecular Thermodynamics MATLAB Assignment
 
 This folder contains original MATLAB code for the two CH5030 assignments.
