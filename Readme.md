@@ -1,4 +1,3 @@
-CONNECT ME ON WHATTSAPP- 9711603123
 
 # CH5030 Molecular Thermodynamics MATLAB Assignment
 
